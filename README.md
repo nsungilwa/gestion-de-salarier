@@ -1,5 +1,5 @@
-# gestion-de-salarier
-1# TP3 – MERISE
+# gestion-des-salariés
+1# TP – MERISE
 
 ## 👤 À propos
 nom: NSUNGILWA KAYOMBO MIKE 
